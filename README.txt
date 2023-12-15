@@ -46,8 +46,9 @@ Protect your hard work and creativity with Son Secure Content Guard, fortifying 
 
 == Screenshots ==
 1. Son content guard admin page with features enabled
+<img src="https://github.com/Iamtsquare07/son-secure-content-guard/blob/main/images/Son-content-protector-1.png"/>
 2. Son content guard admin page with features disabled
-
+<img src="https://github.com/Iamtsquare07/son-secure-content-guard/blob/main/images/Son-content-protector-2.png"/>
 
 == Installation ==
 <ul>
