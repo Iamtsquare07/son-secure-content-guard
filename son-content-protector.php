@@ -77,7 +77,7 @@ function son_cp_settings_page() {
         }
     }
 
-    // Function to load the initial button values from localStorage
+    // Load the initial button values from localStorage
     function loadRadioButtonsFromLocalStorage() {
         const enableCopy = document.getElementById('enableCopy');
         const disableCopy = document.getElementById('disableCopy');
@@ -181,14 +181,6 @@ function scp_add_css() {
 add_action('wp_head', 'scp_add_css');
 
 // Cleaning up the plugin data on plugin deactivation
-function son_cp_deactivation() {
-    // Cleanup tasks specific to your plugin
-    // Remove custom database tables, options, or files
-
-    // Notify the user about the deactivation process
-    add_action('admin_notices', 'son_cp_deactivation_notice');
-}
-
 function son_cp_uninstall() {
     // Delete the plugin options when the plugin is uninstalled
     delete_option('son_cp_enable_copy_protection');
