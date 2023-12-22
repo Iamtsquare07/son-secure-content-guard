@@ -1,4 +1,4 @@
-== Son Secure Content Guard - Copyright Protection ==
+=== Son Secure Content Guard - Copyright Protection ===
 Contributors: tsquare07
 Tags: content, content copy protection, content protection, copy protection, prevent copy, prevent right click, writers copyright protection, protect blog, image protect, image protection, no right click, content plagiarism, secure content, content theft, stop plagiarism, writer copyright protect
 Requires at least: 4.0
