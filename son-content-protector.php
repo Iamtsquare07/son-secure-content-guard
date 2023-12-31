@@ -2,7 +2,7 @@
 /*
 Plugin Name: Son Secure Content Guard
 Author: tsquare07
-Version: 1.0.7
+Version: 1.0.0
 Description: You can stop copycats from easily taking away your hard work. Protect your text, images, and other media with this lightweight plugin. Keep your content safe by deactivating right click, copying and text highlighting even when JavaScript is disabled.
 Author URI: https://www.iamtsquare07.com
 License: GPLv3 or later
