@@ -3,7 +3,7 @@ Contributors: tsquare07
 Tags: content, content copy protection, content protection, copy protection, prevent copy, prevent right click, writers copyright protection, protect blog, image protect, image protection, no right click, content plagiarism, secure content, content theft, stop plagiarism, writer copyright protect
 Requires at least: 4.0
 Tested up to: 6.3
-Stable tag: 1.0.7
+Stable tag: 1.0.0
 Text Domain: son-secure-content-guard
 License: GPL V3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
@@ -16,7 +16,7 @@ You can stop copycats from easily taking away your hard work. Protect your text,
 Son content guard is a powerful yet user-friendly plugin designed to safeguard your valuable website content from unauthorized copying and plagiarism. With this plugin, you can easily protect your texts, images, and other media elements from being copied, ensuring the integrity of your intellectual property.
 The plugin employs advanced JavaScript-based and php-level protection techniques that deter casual content theft. Whenever a user attempts to copy any protected content, Son Secure Content Guard promptly triggers an alert, notifying them that copying is strictly prohibited. This not only discourages potential content thieves but also raises awareness about the importance of respecting copyright and intellectual property rights.
 
-** Key Features **
+== Key Features ==
 <ul>
 <li>Effortless Protection: Son Secure Content Guard offers a seamless experience for website owners with its simple setup and activation process. You can quickly enable content protection across your entire website with just a few clicks.
 </li>
@@ -46,9 +46,8 @@ Protect your hard work and creativity with Son Secure Content Guard, fortifying 
 
 == Screenshots ==
 1. Son content guard admin page with features enabled
-<img src="https://github.com/Iamtsquare07/son-secure-content-guard/blob/main/images/Son-content-protector-1.png"/>
 2. Son content guard admin page with features disabled
-<img src="https://github.com/Iamtsquare07/son-secure-content-guard/blob/main/images/Son-content-protector-2.png"/>
+
 
 == Installation ==
 <ul>
