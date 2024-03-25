@@ -2,8 +2,8 @@
 Contributors: tsquare07
 Tags: content, content copy protection, content protection, copy protection, prevent copy, prevent right click, writers copyright protection, protect blog, image protect, image protection, no right click, content plagiarism, secure content, content theft, stop plagiarism, writer copyright protect
 Requires at least: 4.0
-Tested up to: 6.3
-Stable tag: 1.0.0
+Tested up to: 6.4.3
+Stable tag: 1.0.1
 Text Domain: son-secure-content-guard
 License: GPL V3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
@@ -16,7 +16,7 @@ You can stop copycats from easily taking away your hard work. Protect your text,
 Son content guard is a powerful yet user-friendly plugin designed to safeguard your valuable website content from unauthorized copying and plagiarism. With this plugin, you can easily protect your texts, images, and other media elements from being copied, ensuring the integrity of your intellectual property.
 The plugin employs advanced JavaScript-based and php-level protection techniques that deter casual content theft. Whenever a user attempts to copy any protected content, Son Secure Content Guard promptly triggers an alert, notifying them that copying is strictly prohibited. This not only discourages potential content thieves but also raises awareness about the importance of respecting copyright and intellectual property rights.
 
-== Key Features ==
+**Key Features:**
 <ul>
 <li>Effortless Protection: Son Secure Content Guard offers a seamless experience for website owners with its simple setup and activation process. You can quickly enable content protection across your entire website with just a few clicks.
 </li>
@@ -42,6 +42,10 @@ Regular Updates & Support: You can trust Son Secure Content Guard to stay up-to-
 Protect your hard work and creativity with Son Secure Content Guard, fortifying your WordPress website against content theft and preserving the value of your digital assets. Safeguard your intellectual property and maintain your content's exclusivity with ease, using the comprehensive and robust content protection features offered by Son Secure Content Guard plugin.
 </li>
 </ul>
+
+This plugin is open source and you can help us improve it by contributing: <a href="https://github.com/Iamtsquare07/son-secure-content-guard" target="_blank">Contribute</a>
+You can also contribute by donating or becoming a sponsor <a href="https://github.com/Iamtsquare07/son-secure-content-guard" target="_blank">SPONSOR</a>
+For any enquiries reach out to tsquare@iamtsquare07.com 
 
 
 == Screenshots ==
@@ -70,11 +74,10 @@ Protect your hard work and creativity with Son Secure Content Guard, fortifying 
 </ul>
 
 == Changelog ==
-No changes yet.
+= 1.0.1 - 25th March 2024 =
+<ul>
+<li>Text changes and Checking with wordpress version 6.4.3</li>
+</ul>
 
 == Upgrade Notice == 
 No upgrades available at the moment.
-
-This plugin is open source and you can help us improve it by contributing: <a href="https://github.com/Iamtsquare07/son-secure-content-guard" target="_blank">Contribute</a>
-You can also contribute by donating or becoming a sponsor <a href="https://github.com/Iamtsquare07/son-secure-content-guard" target="_blank">SPONSOR</a>
-For any enquiries reach out to tsquare@iamtsquare07.com 
