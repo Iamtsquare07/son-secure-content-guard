@@ -2,7 +2,7 @@
 /*
 Plugin Name: Son Secure Content Guard
 Author: tsquare07
-Version: 1.0.0
+Version: 1.0.1
 Description: You can stop copycats from easily taking away your hard work. Protect your text, images, and other media with this lightweight plugin. Keep your content safe by deactivating right click, copying and text highlighting even when JavaScript is disabled.
 Author URI: https://www.iamtsquare07.com
 License: GPLv3 or later
@@ -180,15 +180,4 @@ function scp_add_css() {
 }
 add_action('wp_head', 'scp_add_css');
 
-// Cleaning up the plugin data on plugin deactivation
-function son_cp_uninstall() {
-    // Delete the plugin options when the plugin is uninstalled
-    delete_option('son_cp_enable_copy_protection');
-    delete_option('son_cp_enable_right_click_protection');
-    delete_option('son_cp_copy_message');
-    delete_option('son_cp_right_click_message');
-}
-
-// Register the uninstall hook
-register_uninstall_hook(__FILE__, 'son_cp_uninstall');
 ?>
